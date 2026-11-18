@@ -438,11 +438,4 @@ This project explores the implementation and internal workings of GPT-style lang
 
 
 
-\*\*Author:\*\* Ankit
-
-
-
-\*\*Repository:\*\* \[LLM\_from\_scratch\_with\_Interpretability](https://github.com/ankit-codegit/LLM\_from\_scratch\_with\_Interpretability)
-
-
 
